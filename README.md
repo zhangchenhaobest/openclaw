@@ -1,3 +1,29 @@
+# openclaw
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+真正能做事的 AI，支持任意操作系统与平台。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # OpenClaw 🦞 — Your assistant, on your devices, in your chats
 
 <p align="center">
